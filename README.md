@@ -6,7 +6,7 @@
 
 <h2>Tutorial Link :https://www.udemy.com/course/unreal-engine-5-visual-novel-and-narrative-game-design/?couponCode=KEEPLEARNING </h2>
 
-<h3>Purpose : </h3>
+<h3>Implementations : </h3>
 
 1. Loading Screen and Main Menu
 2. Advanced-Data Table Management
